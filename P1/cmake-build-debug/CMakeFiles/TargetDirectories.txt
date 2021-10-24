@@ -1,0 +1,4 @@
+C:/Users/lucia/OneDrive/Documentos/FIC/SEGUNDO CUATRI/PRO2/PRACTICA 1/P1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucia/OneDrive/Documentos/FIC/SEGUNDO CUATRI/PRO2/PRACTICA 1/P1/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/lucia/OneDrive/Documentos/FIC/SEGUNDO CUATRI/PRO2/PRACTICA 1/P1/cmake-build-debug/CMakeFiles/test_lists.dir
+C:/Users/lucia/OneDrive/Documentos/FIC/SEGUNDO CUATRI/PRO2/PRACTICA 1/P1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
