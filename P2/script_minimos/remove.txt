@@ -1,0 +1,40 @@
+01 N nick2  standard                           #new user nick2 category standard
+02 S
+03 N nick1  premium                            #new user nick1 category premium
+04 S
+05 A nick1  video1                         	 #add user video1 to nick1
+06 S
+07 A nick1  video3                         	 #add user video3 to nick1
+08 S
+09 N nick3 standard
+10 S
+11 N nick4 standard
+12 S
+11 N nick5 standard
+14 S
+15 N nick6 standard
+16 S
+17 P nick1  video3  24
+18 S
+19 A nick2  video2                         	
+20 S
+21 A nick3  video4                         	 
+22 S
+23 A nick4  video5
+24 S
+25 A nick5  video1 
+26 S
+27 A nick6  video5
+28 S
+29 P nick2  video2  26
+30 S
+31 P nick4  video5  15
+32 S
+33 P nick3  video4  30
+34 S
+35 P nick5  video1  11
+36 S
+37 P nick6  video5  28
+38 S
+39 R 20 standard
+
